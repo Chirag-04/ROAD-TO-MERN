@@ -20,3 +20,5 @@ function display2(res){
 
 const ans = add(1 , 2  , display1);
 // so i have passed a fn as an argument 
+
+// i am calling a function add which is calling back the fnToCall function

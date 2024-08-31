@@ -1,0 +1,6 @@
+1. Syncrhonous nature means doing things sequentially  , one after other 
+While ASyncrhonous means parallelizing the things , context switching between task 
+It is same as Preempt and Not Preempt CPU scheduling algorithm in OS 
+Real world example of async function is reading files from the file system 
+Advantage of async function is that net amount of time taken to do a task can be decreased 
+Example fetch  , readfile in node js , setTimeout 
